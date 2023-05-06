@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "130082008f1bb5ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "26b32d6f4f14f730",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ligado-Ligado.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7c8a20345fbd0d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "47113fd692f1faeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1483b0238dcef4bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e78683dd62934e0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b12554107b035dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "e975540cd66298d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "809f8dc518105e6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ligado-Ligado.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "26b32d6f4f14f730",
+  "lastOpenFiles": [
+    "Estructura atómica.md",
+    "Unidad 2 Radiación/Cantidades Básicas/Función Fuente.md",
+    "Ligado-Ligado.md",
+    "Ligado-Libre.md",
+    "Imágenes(no recomiendo abrir carpeta)/dependencia coeficientes.png",
+    "Libre-Libre.md",
+    "Unidad 2 Radiación/Radiación de cuerpo negro/Radiación de cuerpo negro.md",
+    "Unidad 2 Radiación/Cantidades Básicas/Emisión.md",
+    "Unidad 2 Radiación/Cantidades Básicas/Extinción.md",
+    "Unidad 2 Radiación/Cantidades Básicas/Intensidad específica.md"
+  ]
+}
